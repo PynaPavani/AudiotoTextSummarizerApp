@@ -22,8 +22,7 @@ To get started with the project, clone the repository and follow the installatio
 
 ```bash
 git clone https://github.com/PynaPavani/AudiotoTextSummarizerApp.git
-cd audio-to-text-summarization
-pip install -r requirements.txt
+cd AudiotoTextSummarizerApp
 ```
 
 ## Usage
