@@ -27,7 +27,7 @@ cd AudiotoTextSummarizerApp
 
 ## Usage
 
-1. Place your audio files in the designated input folder.
+1. Place your audio files in the designated input folder and upload it in streamlit app for summarization.
 2. Run the script to process the audio and generate the summaries.
 
 ```bash
